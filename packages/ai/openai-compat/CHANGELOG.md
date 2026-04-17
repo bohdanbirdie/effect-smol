@@ -1,5 +1,12 @@
 # @effect/ai-openai-compat
 
+## 4.0.0-beta.51
+
+### Patch Changes
+
+- Updated dependencies [[`454f8ad`](https://github.com/Effect-TS/effect-smol/commit/454f8adad822929c3ef60f8280d0987226b049fd), [`d7e1519`](https://github.com/Effect-TS/effect-smol/commit/d7e151974934201fd93fa4c8a1192ee9a5d965a0), [`72a8122`](https://github.com/Effect-TS/effect-smol/commit/72a81228e09782bae512f7d041bbfbc78bc668d0)]:
+  - effect@4.0.0-beta.51
+
 ## 4.0.0-beta.50
 
 ### Patch Changes
